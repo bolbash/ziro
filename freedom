@@ -1,4 +1,3 @@
-
 {
   "log": {
     "access": "",
@@ -104,8 +103,8 @@
       "settings": {
         "fragment": {
           "packets": "tlshello",
-          "length": "100-200",
-          "interval": "3-5"
+          "length": "10-20",
+          "interval": "10-20"
         }
       },
       "streamSettings": {
