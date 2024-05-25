@@ -107,8 +107,8 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
+          "length": "10-40",
+          "interval": "3-5"
         }
       },
       "streamSettings": {
